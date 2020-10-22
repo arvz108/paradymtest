@@ -51,7 +51,6 @@ Stopwatch task
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
@@ -59,21 +58,9 @@ Stopwatch task
 * [Contact](#contact)
 
 
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-<p align="left">
-  <a href="https://github.com/github_username/repo">
-    <img src="images/Screenshot_20200621-111325.jpg" alt="" width="288" height="512">
-  </a>
-<p/a>
-
-
 ### Built With
 
-* [Unity](https://unity.com/)
+* [Flutter](https://flutter.dev)
 
 
 <!-- GETTING STARTED -->
@@ -90,7 +77,7 @@ To get a local copy up and running follow these simple steps.
  
 1. Clone the repo
 ```sh
-git clone https://github.com/arvz108/-Stackd.git
+git clone https://github.com/arvz108/paradymtest.git
 ```
 
 
