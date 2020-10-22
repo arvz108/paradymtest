@@ -33,7 +33,7 @@ Stopwatch task
   <h3 align="center">Stackd</h3>
 
   <p align="center">
-   Stackd Unity App
+   Stopwatch App
     <br />
     <a href="https://github.com/arvz108/paradymtest/"><strong>Explore the docs »</strong></a>
     <br />
@@ -89,7 +89,6 @@ git clone https://github.com/arvz108/paradymtest.git
 
 Arvin Teymouri - [@AAArvinAAA](https://twitter.com/@AAArvinAAA) - Teymouri.arvin@gmail.com
 
-Project Link: [https://github.com/arvz108/-Stackd](https://github.com/github_username/repo)
 
 
 
