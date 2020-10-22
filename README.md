@@ -14,7 +14,7 @@ Stopwatch task
     <img src="images/ic_launcher-web.png" alt="" width="80" height="80">
   </a>
 
-  <h3 align="center">Stackd</h3>
+  <h3 align="center">Stopwatch</h3>
 
   <p align="center">
    Stopwatch App
