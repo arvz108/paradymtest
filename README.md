@@ -1,4 +1,4 @@
-# paradymtest
+# Paradymtest
 
 A new Flutter application.
 
